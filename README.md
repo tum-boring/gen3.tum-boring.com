@@ -1,5 +1,7 @@
-# TUM Boring - Gen3
+# [TUM Boring Gen3 Team Highlights](https://tum-boring.github.io/gen3.tum-boring.com/)
 > Say hello to TUM Boring's Gen3 website. A slick, one-page gallery design with a fully functional lightbox.
+
+![TUM Boring Gen3 Team Highlights](./images/screenshot.png "TUM Boring Gen3 Team Highlights")
 
 ## Credits
 - Website coded by [Suriyaa](https://about.suriyaa.tk)
