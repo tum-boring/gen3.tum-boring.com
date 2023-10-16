@@ -8,7 +8,7 @@
 - Design by [aj](https://twitter.com/ajlkn)
 - Icons by [Font Awesome](fontawesome.io)
 - Demo Images by [Unsplash](unsplash.com)
-- jQuery.js by [jQuery]((jquery.com)
+- jQuery.js by [jQuery](jquery.com)
 - Poptrox  by [aj](github.com/ajlkn/jquery.poptrox)
 - Responsive Tools by [aj](github.com/ajlkn/responsive-tools)
 
