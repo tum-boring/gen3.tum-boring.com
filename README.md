@@ -6,11 +6,11 @@
 ## Credits
 - Website coded by [Suriyaa](https://about.suriyaa.tk)
 - Design by [aj](https://twitter.com/ajlkn)
-- Icons by [Font Awesome](fontawesome.io)
-- Demo Images by [Unsplash](unsplash.com)
-- jQuery.js by [jQuery](jquery.com)
-- Poptrox  by [aj](github.com/ajlkn/jquery.poptrox)
-- Responsive Tools by [aj](github.com/ajlkn/responsive-tools)
+- Icons by [Font Awesome](https://fontawesome.io)
+- Demo Images by [Unsplash](https://unsplash.com)
+- jQuery.js by [jQuery](https://jquery.com)
+- Poptrox  by [aj](https://github.com/ajlkn/jquery.poptrox)
+- Responsive Tools by [aj](https://github.com/ajlkn/responsive-tools)
 - Website's code hosted on [GitHub](https://www.github.com/)
 - Deployed public website hosted on [GitHub Pages](https://pages.github.com/)
 
