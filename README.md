@@ -11,6 +11,8 @@
 - jQuery.js by [jQuery](jquery.com)
 - Poptrox  by [aj](github.com/ajlkn/jquery.poptrox)
 - Responsive Tools by [aj](github.com/ajlkn/responsive-tools)
+- Website's code hosted on [GitHub](https://www.github.com/)
+- Deployed public website hosted on [GitHub Pages](https://pages.github.com/)
 
 ## License
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
