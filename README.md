@@ -15,4 +15,5 @@
 - Deployed public website hosted on [GitHub Pages](https://pages.github.com/)
 
 ## License
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+- Web design is free for personal and commercial use under the [CCA 3.0 license](./LICENSE-WEB_DESIGN.md).
+- Photos and branding is under Copyright](./LICENSE-PHOTOS.md).
